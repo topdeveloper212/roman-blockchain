@@ -273,9 +273,9 @@ const projects = [
 ];
 
 const personalInfo = {
-  name: "Kyo",
-  fullName: "Mr Kyo",
-  email: "raishridhar619@gmail.com",
+  name: "Roman",
+  fullName: "Roman Chervinko",
+  email: "bombaqw8@gmail.com",
   role: "Software Developer",
   about: `I'm a versatile developer specializing in WebGL, Web3, web scraping, and bot development. I build immersive 3D experiences with WebGL and Three.js, bringing interactivity and visualization to the web. In the Web3 space, I develop smart contracts and decentralized applications that connect seamlessly with blockchain networks. I also create efficient web scrapers and intelligent bots for data automation and task execution. With a focus on performance and innovation, I deliver robust, scalable solutions tailored to modern digital needs.`,
 };
